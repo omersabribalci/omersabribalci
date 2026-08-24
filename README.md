@@ -1,6 +1,6 @@
 # Hi there, I'm Omer 👋
 
-### 🚀 Software Developer 
+### 🚀 Full-Stack Developer 
 
 I am a software developer transitioning from **8 years of experience in Industrial Automation** to modern **Full-Stack Web Development**. 
 My background in industrial systems brings a strong foundation in **system logic, reliability, process optimization, and troubleshooting**. I apply this engineering rigor to building clean, maintainable, and scalable software solutions.

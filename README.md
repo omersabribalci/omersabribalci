@@ -15,7 +15,7 @@ My background in industrial systems brings a strong foundation in **system logic
 
 ### 🌟 Featured Projects
 
-- 🩺 **[Vitaline](https://github.com/omersabribalci/vitaline-repo-adi):** A hospital appointment management system, designed the database schemas and handling end-to-end data flow. User interface using React and Redux Toolkit. RESTful APIs with Node.js and Express.js
+- 🩺 **[Vitaline](https://github.com/omersabribalci/VitaLine):** A hospital appointment management system, designed the database schemas and handling end-to-end data flow. User interface using React and Redux Toolkit. RESTful APIs with Node.js and Express.js
 
 ---
 

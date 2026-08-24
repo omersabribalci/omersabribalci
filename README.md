@@ -1,9 +1,8 @@
 # Hi there, I'm Omer 👋
 
-### 🚀 Software Developer | Former Industrial Automation Engineer (8+ Yrs)
+### 🚀 Software Developer 
 
 I am a software developer transitioning from **8 years of experience in Industrial Automation** to modern **Full-Stack Web Development**. 
-
 My background in industrial systems brings a strong foundation in **system logic, reliability, process optimization, and troubleshooting**. I apply this engineering rigor to building clean, maintainable, and scalable software solutions.
 
 ---
@@ -16,25 +15,16 @@ My background in industrial systems brings a strong foundation in **system logic
 
 ### 🌟 Featured Projects
 
-- 🩺 **[Vitaline](https://github.com/omersabribalci/vitaline-repo-adi):** A responsive full-stack web application for monitoring daily health metrics and wellness habits. Built with React and modern state management to deliver a seamless user experience.
+- 🩺 **[Vitaline](https://github.com/omersabribalci/vitaline-repo-adi):** A hospital appointment management system, designed the database schemas and handling end-to-end data flow. User interface using React and Redux Toolkit. RESTful APIs with Node.js and Express.js
 
 ---
 
 ### 📦 Consolidated Learning Hubs (Monorepos)
 
-- 🎨 **[Frontend Learning Projects](https://github.com/omersabribalci/Workintech-Frontend-Learning-Projects):** Consolidated hub featuring modular React, JavaScript, state management, and UI component exercises.
+- 🎨 **[Frontend Learning Projects](https://github.com/omersabribalci/Workintech-Frontend-Learning-Projects):** Consolidated hub featuring modular React, JavaScript, and UI component exercises.
 - ☕ **[Java & Spring & SQL Projects](https://github.com/omersabribalci/Workintech-Backend-Learning-Projects):** Comprehensive backend collection covering OOP, Spring Boot APIs, and relational database practices.
-- 🔷 **[TypeScript & Next.js Projects](https://github.com/omersabribalci/TypeScript-Next.js-Learning-Projects):** Type-safe frontend applications and modern SSR/SSG web development explorations.
+- 🔷 **[TypeScript & Next.js Projects](https://github.com/omersabribalci/TypeScript-Next.js-Learning-Projects):** Type-safe frontend applications and modern web development explorations.
 - 🟢 **[Node.js & Express Projects](https://github.com/omersabribalci/Node.js-Express-Learning-Projects):** RESTful API services, middleware configurations, and backend architecture practice.
-
----
-
-### ⚡ GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omersabribalci&show_icons=true&theme=tokyonight&hide_border=true" alt="Ömer's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omersabribalci&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%" />
-</p>
 
 ---
 

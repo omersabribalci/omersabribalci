@@ -1,4 +1,4 @@
-# Hi there, I'm Ömer Sabri Balcı 👋
+# Hi there, I'm Omer 👋
 
 ### 🚀 Software Developer | Former Industrial Automation Engineer (8+ Yrs)
 
@@ -10,14 +10,13 @@ My background in industrial systems brings a strong foundation in **system logic
 
 ### 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,spring,nodejs,express,postgres,git,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,cypress,java,spring,nodejs,express,postgres,mongodb,git,vscode,idea,vercel,docker,postman,)](https://skillicons.dev)
 
 ---
 
 ### 🌟 Featured Projects
 
 - 🩺 **[Vitaline](https://github.com/omersabribalci/vitaline-repo-adi):** A responsive full-stack web application for monitoring daily health metrics and wellness habits. Built with React and modern state management to deliver a seamless user experience.
-- 🌍 **[Natural Event Tracker](https://github.com/omersabribalci/natural-event-tracker-repo-adi):** Real-time global event and disaster monitoring application powered by the NASA EONET API.
 
 ---
 

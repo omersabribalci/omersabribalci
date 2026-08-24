@@ -28,6 +28,15 @@ My background in industrial systems brings a strong foundation in **system logic
 
 ---
 
+### ⚡ GitHub Analytics
+
+[![Omer's GitHub stats](https://github-stats-extended.vercel.app/api?username=omersabribalci)](https://github.com/stats-organization/github-stats-extended)
+
+### ⚡ Most Used Languages
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=omersabribalci&langs_count=5)](https://github-stats-extended.vercel.app/api/top-langs?username=omersabribalci&langs_count=5)
+---
+
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kullanici-adi)

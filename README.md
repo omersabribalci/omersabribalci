@@ -4,25 +4,29 @@
 
 I am a software developer transitioning from **8 years of experience in Industrial Automation** to modern **Full-Stack Web Development**. 
 
-My background in industrial systems brings a strong foundation in **system logic, reliability, process optimization, and troubleshooting**. I apply this engineering rigor to building clean, maintainable, and scalable web applications.
+My background in industrial systems brings a strong foundation in **system logic, reliability, process optimization, and troubleshooting**. I apply this engineering rigor to building clean, maintainable, and scalable software solutions.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Technologies & Tools
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
-| **Tools & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-2088FF?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,java,spring,nodejs,express,postgres,git,vscode,vercel)](https://skillicons.dev)
 
 ---
 
-### 🌟 Highlighted Work
+### 🌟 Featured Projects
 
-- 💚 **[Vitaline](https://github.com/omersabribalci/vitaline-repo-adi):** A modern health management web app focusing on clean component design, state persistence, and efficient API integrations.
-- 📦 **Frontend Learning Projects (Monorepo):** A clean, consolidated repository housing modular React and JavaScript applications, showcasing clean state management and architectural practice.
-- 
+- 🩺 **[Vitaline](https://github.com/omersabribalci/vitaline-repo-adi):** A responsive full-stack web application for monitoring daily health metrics and wellness habits. Built with React and modern state management to deliver a seamless user experience.
+- 🌍 **[Natural Event Tracker](https://github.com/omersabribalci/natural-event-tracker-repo-adi):** Real-time global event and disaster monitoring application powered by the NASA EONET API.
+
+---
+
+### 📦 Consolidated Learning Hubs (Monorepos)
+
+- 🎨 **[Frontend Learning Projects](https://github.com/omersabribalci/Workintech-Frontend-Learning-Projects):** Consolidated hub featuring modular React, JavaScript, state management, and UI component exercises.
+- ☕ **[Java & Spring & SQL Projects](https://github.com/omersabribalci/Workintech-Backend-Learning-Projects):** Comprehensive backend collection covering OOP, Spring Boot APIs, and relational database practices.
+- 🔷 **[TypeScript & Next.js Projects](https://github.com/omersabribalci/TypeScript-Next.js-Learning-Projects):** Type-safe frontend applications and modern SSR/SSG web development explorations.
+- 🟢 **[Node.js & Express Projects](https://github.com/omersabribalci/Node.js-Express-Learning-Projects):** RESTful API services, middleware configurations, and backend architecture practice.
 
 ---
 
@@ -37,5 +41,5 @@ My background in industrial systems brings a strong foundation in **system logic
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omersabribalci7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omersabribalci@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kullanici-adi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email-adresin@gmail.com)

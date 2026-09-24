@@ -9,7 +9,7 @@ My background in industrial systems brings a strong foundation in **system logic
 
 ### 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,cypress,java,spring,nodejs,express,postgres,mongodb,git,vscode,idea,vercel,docker,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,java,spring,nodejs,express,postgres,mongodb,docker)](https://skillicons.dev)
 
 ---
 
